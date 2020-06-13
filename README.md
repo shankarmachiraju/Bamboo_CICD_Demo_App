@@ -1,1 +1,1 @@
-This is the sample webapp for the demo on Bamboo CI/CD
+THIS IS A SIMPLE WEBAPP TO DEMONSTRATE THE CI/CD PROCESS USING ATLASSIAN BAMBOO
